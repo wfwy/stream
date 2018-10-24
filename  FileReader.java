@@ -1,3 +1,5 @@
+
+import java.io.*;
 public class Test {
     public static void main(String[] args) throws IOException {
         FileReader fr=new FileReader("d:\\3.txt");
